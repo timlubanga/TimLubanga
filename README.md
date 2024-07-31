@@ -47,7 +47,7 @@ I am passionate about leveraging my deep technical expertise and problem-solving
 
 <div align="center">
 
-<a href="https://github.com/GriffinsNgeno/">
+<a href="https://github.com/timlubanga/">
   <img src="https://github-readme-stats.vercel.app/api?username=GriffinsNgeno&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GriffinsNgeno&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
@@ -66,14 +66,14 @@ I am passionate about leveraging my deep technical expertise and problem-solving
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/griffins-ngeno-4201871b0/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Griffins Ngeno-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/timothy-lubanga-69155b85/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin: Timothy Lubanga-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
-<a href="mailto:ngenogriffins@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Griffins Ngeno-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="timlubanga@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Timothy Lubanga-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
