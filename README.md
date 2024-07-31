@@ -72,8 +72,8 @@ I am passionate about leveraging my deep technical expertise and problem-solving
 </li>
 <br>
 <li>
-<a href="timlubanga@gmail.com"" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  timlubanga"-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:timlubanga@gmail.com"" target="_blank">
+<img src="https://img.shields.io/badge/gmail: Timothy Lubanga"-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
