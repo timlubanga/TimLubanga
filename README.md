@@ -6,7 +6,7 @@
 <br>
 
 <h2 align="center">About Me</h2>
-<p colour="red">I am a Highly skilled and innovative Developer with over 5 years of experience in designing and implementing robust software solutions. Proficient in Python, JavaScript, and Golang, with extensive hands-on expertise in frameworks like Django, React, and FastAPI. My professional journey has been marked by a commitment to enhancing system performance, driving efficiency, and delivering high-quality software that meets and exceeds business objectives.
+<p color="red">I am a Highly skilled and innovative Developer with over 5 years of experience in designing and implementing robust software solutions. Proficient in Python, JavaScript, and Golang, with extensive hands-on expertise in frameworks like Django, React, and FastAPI. My professional journey has been marked by a commitment to enhancing system performance, driving efficiency, and delivering high-quality software that meets and exceeds business objectives.
 </p>
 With a proven track record in API architecture, database optimization, and cloud integration, I excel at transforming complex requirements into innovative solutions that enhance user experience and operational efficiency. My leadership in collaborative development environments and my ability to seamlessly integrate third-party services have consistently resulted in increased user engagement and satisfaction.
 <p>
