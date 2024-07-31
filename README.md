@@ -5,7 +5,7 @@
 </p>
 <br>
 
-
+<h2 align="center">About Me</h2>
 I am a Highly skilled and innovative Developer with over 5 years of experience in designing and implementing robust software solutions. Proficient in Python, JavaScript, and Golang, with extensive hands-on expertise in frameworks like Django, React, and FastAPI. My professional journey has been marked by a commitment to enhancing system performance, driving efficiency, and delivering high-quality software that meets and exceeds business objectives.
 
 Currently, I am a Senior Software Developer at Synnefa, where I spearhead the development of scalable, high-performance applications that revolutionize agricultural management. My notable contributions include leading the development of FarmCloud, a comprehensive farm management system, which resulted in an 80% improvement in farm operations. I have also played a pivotal role in optimizing our backend infrastructure, achieving a 65% improvement in system performance and reliability.
